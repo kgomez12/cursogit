@@ -2,4 +2,10 @@ editor de texto, modificación de fichero
 jdsfgljfdslsfjlksadfasdf
 asdfadsfdsaf
 asdfadfadsfddasdfadsf
-:wq::wq
+:w
+adsfjadfadf
+adsgfafdgsdg
+sdfgsfgsfg
+sdfgsfgsfg
+sfdgsfgsfdg
+:q::wq
